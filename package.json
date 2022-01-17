@@ -1,0 +1,26 @@
+{
+  "name": "social-networkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwbarton/social-networkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwbarton/social-networkAPI/issues"
+  },
+  "homepage": "https://github.com/wwbarton/social-networkAPI#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "node": "^17.3.1"
+  }
+}
