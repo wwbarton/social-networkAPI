@@ -6,6 +6,10 @@ https://github.com/wwbarton/social-networkAPI
 
 This project was created to implement collections from a Mongodb database and test it's routes using Insomnia.
 
+## Youtube Video WAlkthroughs
+
+-[First](https://youtu.be/gm2xvDSIOcU) -[Second](https://youtu.be/9dqtFWn4s-A)
+
 # Table of Contents
 
 - [Description](#description)
@@ -14,7 +18,6 @@ This project was created to implement collections from a Mongodb database and te
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [data](#data)
 
 # Installation
 
