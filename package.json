@@ -20,7 +20,6 @@
   "homepage": "https://github.com/wwbarton/social-networkAPI#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongoose": "^6.1.7",
-    "node": "^17.3.1"
+    "mongoose": "^6.1.7"
   }
 }
